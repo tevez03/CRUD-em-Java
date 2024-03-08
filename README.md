@@ -39,6 +39,3 @@ Certifique-se de substituir "entidades" pelo nome real da entidade que está sen
 
 Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar uma solicitação de pull request com melhorias ou correções.
-
-Licença
-Este projeto está licenciado sob a MIT License.
